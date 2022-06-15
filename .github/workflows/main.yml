@@ -1,7 +1,6 @@
 name: Publish to NPM
 on:
-  release:
-    types: [push]
+  push
 jobs:
   build:
     runs-on: ubuntu-latest
