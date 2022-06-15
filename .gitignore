@@ -132,6 +132,3 @@ dist
 
 # vscode
 .vscode
-
-# test file
-tests.ts
