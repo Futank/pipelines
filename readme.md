@@ -1,12 +1,8 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-          
 
 <h1>Pipelines</h1>
 
 <h2>
-    Create pipelines in  
-    <i class="devicon-javascript-plain colored"></i>
-    <i class="devicon-typescript-plain colored"></i>
+    Create pipelines in JS/TS
 </h2>
 
 

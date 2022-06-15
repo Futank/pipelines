@@ -1,6 +1,6 @@
 {
   "name": "@futank/pipelines",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple module to use pipelines in js/ts",
   "main": "./lib/pipelines.js",
   "types": "./@types/pipelines.d.ts",
