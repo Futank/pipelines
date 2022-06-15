@@ -1,7 +1,7 @@
 import axios from "axios";
 import { asyncPipeline } from "./pipelines";
 
-test('return 5 pokemon', async() => {
+test('return 5 pokemons', async() => {
 
     const getPokemonList = async () => {
         const { data } = await axios.get(
