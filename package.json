@@ -1,0 +1,33 @@
+{
+  "name": "pipelines",
+  "version": "1.0.0",
+  "description": "A simple module to use pipelines in js/ts",
+  "main": "./lib/pipelines.js",
+  "scripts": {
+    "typescript": "./node_modules/.bin/tsc --init",
+    "compile": "./node_modules/.bin/tsc pipelines.ts --outDir lib",
+    "test": "jest"
+  },
+  "keywords": [
+    "pipelines",
+    "make pipelines",
+    "pipelines js",
+    "async pipelines",
+    "pipeline",
+    "create pipelines",
+    "create pipeline",
+    "make a pipeline"
+  ],
+  "author": "Dpbm",
+  "license": "MIT",
+  "types": "./@types/pipelines.d.ts",
+  "devDependencies": {
+    "@types/jest": "^28.1.1",
+    "axios": "^0.27.2",
+    "jest": "^28.1.1",
+    "ts-jest": "^28.0.5",
+    "ts-node": "^10.8.1",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^4.7.3"
+  }
+}
