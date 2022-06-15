@@ -1,5 +1,5 @@
 {
-  "name": "@Futank/pipelines",
+  "name": "@futank/pipelines",
   "version": "1.0.0",
   "description": "A simple module to use pipelines in js/ts",
   "main": "./lib/pipelines.js",
