@@ -34,10 +34,10 @@
     "lib": "lib"
   },
   "scripts": {
-    "typescript": "./node_modules/.bin/tsc --init",
-    "compile": "./node_modules/.bin/tsc pipelines.ts --outDir lib",
+    "typescript": "tsc --init",
+    "compile": "tsc pipelines.ts --outDir lib",
     "test": "jest",
-    "debugTest": "./node_modules/.bin/tsnd debug.ts"
+    "debugTest": "tsnd debug.ts"
   },
   "bugs": {
     "url": "https://github.com/Futank/pipelines/issues"
